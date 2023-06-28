@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Healthify/static/css/main.cb598751.css",
+    "main.js": "/Healthify/static/js/main.afeea5e6.js",
+    "static/media/cool-background.png": "/Healthify/static/media/cool-background.5c62b4bd819150c6b74d.png",
+    "index.html": "/Healthify/index.html",
+    "main.cb598751.css.map": "/Healthify/static/css/main.cb598751.css.map",
+    "main.afeea5e6.js.map": "/Healthify/static/js/main.afeea5e6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb598751.css",
+    "static/js/main.afeea5e6.js"
+  ]
+}
